@@ -18,7 +18,7 @@ I build production web apps with Next.js, React and Payload CMS, and I care as m
 - **Next.js and Payload CMS platforms:** component libraries, reusable CMS blocks, authentication with Clerk (MFA and full account flows), Zoom Meeting SDK integration, PDF reports and transactional emails.
 - **Accessibility:** WCAG 2.2 remediation after external audits: landmarks, heading structure, keyboard access, focus states and colour contrast.
 - **Video streaming in Angular 19 / Nx:** multi-DRM playback (Widevine, PlayReady, FairPlay) and SRT live streams in an OTT product.
-- **AI engineering:** sole developer and architect of an AI agent that triages support tickets, running on AWS Lambda with Claude via Amazon Bedrock (in implementation).
+- **AI engineering:** sole developer and architect of an AI agent that triages support tickets, running on AWS Lambda with Claude via Amazon Bedrock.
 - **Technical decisions under constraints:** for example, when the built-in DRM provider rejected requests on Apple devices, I evaluated several approaches and chose a manual FairPlay licence exchange.
 
 ## Tech stack
