@@ -8,7 +8,7 @@ I build production web apps with Next.js, React and Payload CMS, and I care as m
 
 ## How I approach engineering
 
-- **Decide before coding.** I start from a spec, weigh the trade-offs and record the decision. On my current AI project I keep a log of 20 architecture decisions (ADRs).
+- **Decide before coding.** I start from a spec, weigh the trade-offs and record the decision. On my current AI project I record architecture decisions in ADRs.
 - **LLMs propose, code decides.** In AI systems the model returns schema-validated JSON and deterministic code carries out the action, so behaviour stays predictable, testable and auditable.
 - **Security and privacy by design.** Secrets stay on the server, identity is revoked before account data is deleted, and personal data is anonymised with a local NER model.
 - **AI as a disciplined teammate.** I work in a spec → implementation → review → tests loop with Claude Code, keep project knowledge for agents in the repo (AGENTS.md, specs, lessons learned) and write reusable agent skills for the team.
